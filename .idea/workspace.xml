@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fe654f7-b5a2-4bb2-bbf0-ae87d9996491" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/netlify.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Form/Form.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Form/Form.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ProductList/ProductList.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ProductList/ProductList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ProductItem/ProductItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ProductItem/ProductItem.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ProductList/ProductList.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProductList/ProductList.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ProductList/ProductList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProductList/ProductList.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +25,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Form" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/ProductItem" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -38,6 +33,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/ProductItem" />
       <recent name="$PROJECT_DIR$/src/components/Form" />
     </key>
   </component>
@@ -58,7 +54,8 @@
       <workItem from="1694629158391" duration="700000" />
       <workItem from="1695573650613" duration="3932000" />
       <workItem from="1695828633806" duration="5759000" />
-      <workItem from="1695994895880" duration="1816000" />
+      <workItem from="1695994895880" duration="5617000" />
+      <workItem from="1696344664967" duration="3129000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1695576337281</created>
@@ -102,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1695831051260</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="init">
+      <created>1696004421742</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1696004421742</updated>
+    </task>
+    <task id="LOCAL-00008" summary="init">
+      <created>1696006408793</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696006408793</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

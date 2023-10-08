@@ -31,7 +31,7 @@ const ProductList = () => {
         fetch('http://tg-web-app-node-production.up.railway.app:8000/web-data', {
             method: 'POST',
             headers: {
-                'Content-type': 'application/json',
+                'Content-Type': 'application/json',
             },
             body: JSON.stringify(data)
         })

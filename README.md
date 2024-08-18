@@ -1,3 +1,13 @@
+# 🛒 Telegram Bot Mini-Shop Interface
+
+Welcome to the **Telegram Bot Mini-Shop Interface** repository! This project provides a user-friendly interface for purchasing products directly within Telegram. Users can browse, select, and purchase items, all through interactions with the Telegram bot.
+
+<br>
+
+# 🚧 Development Status
+
+**Note:** This project is currently in active development. Features, functionality, and design are subject to change. Contributions are welcome, but please be aware that the codebase is still evolving.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +78,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## 📝 License
+
+This project is open-source and available under the MIT License.
+
+
+## 🤝 Let's Connect
+
+Feel free to reach out! I'm always open to feedback and opportunities to collaborate.
+- **LinkedIn**: [https://www.linkedin.com/in/bohdan-hrabynskyi](https://www.linkedin.com/in/bohdan-hrabynskyi)
+- **GitHub**: [https://github.com/grabinskij](https://github.com/grabinskij)
+- **Email**: [hrabynskyi.dev@gmail.com](mailto:hrabynskyi.dev@gmail.com)
